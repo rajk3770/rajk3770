@@ -1,5 +1,5 @@
-<h1 align='left'>Hey 👋, This is Raj Kothari</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/-rajk3770-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/rajk3770/) [![Github Badge](https://img.shields.io/badge/-rajk3770-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rajk3770/)](https://www.github.com/rajk3770/) [![Gmail Badge](https://img.shields.io/badge/-rajk3770@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rajk3770@gmail.com)](mailto:rajk3770@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-rajk3770-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rajk3770/)](https://www.twitter.com/rajk3770/) <p align='left'>I am a software developer. I am currently looking for full-time oppurtunities.</p><p align='left'> You can download my resume from<a href="https://drive.google.com/file/d/1NnKQa1Xx_YseHShqvyEcdhEHIoT2WvoP/view?usp=sharing"> here</a></p><h2 align='left'>Some of my Github Stats</h2>
+<h1 align='left'>Hey 👋, 
+  
+[![Github Badge](https://img.shields.io/badge/-rajk3770-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rajk3770/)](https://www.github.com/rajk3770/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rajk3770@github.io/)](rajk3770@github.io/) <h2 align='left'>Some of my Github Stats</h2>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rajk3770 alt=rajk3770 /> </p><img src=https://github-readme-stats.vercel.app/api?username=rajk3770&show_icons=false>
