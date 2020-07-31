@@ -6,4 +6,4 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rajk3770 alt=rajk3770 /> </p>
 
 [![Raj's github stats](https://github-readme-stats.vercel.app/api?username=rajk3770)](https://github.com/rajk3770/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajk3770&layout=compact)](https://github.com/rajk3770/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajk3770)](https://github.com/rajk3770/github-readme-stats)
